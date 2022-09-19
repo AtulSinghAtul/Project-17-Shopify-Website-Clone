@@ -2,13 +2,13 @@
 
 # Shopify Website Clone Project
 
-- ## In this Project I have build clone of [Shopify](###) website.
+- ## In this Project I have build clone of [Shopify](https://ineuron-shopify-website-clone-17.netlify.app/) website.
 
 - ## I have build this entire UI of Shopify website with tailwind CSS.
 
 ---
 
-[Live Link](###)
+[Live Link](https://ineuron-shopify-website-clone-17.netlify.app/)
 
 **Project is fully Responsive**
 
