@@ -30,4 +30,4 @@
 
 ![LCO](https://img.shields.io/badge/Project-17-green) ![LCO](https://img.shields.io/badge/Shopify%20Clone-HTML%20%26%20Tailwind%20CSS-orange)
 
-![Shopify](assets/Shopify-%20full-page-screenshot.png)
+![shopify-website-clone](https://user-images.githubusercontent.com/112545072/210029363-cf4a0523-0579-4104-9c09-7d3a6a157ec9.png)
