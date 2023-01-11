@@ -8,7 +8,13 @@
 
 ---
 
-[Live Link](https://ineuron-shopify-website-clone-17.netlify.app/)
+[Project Live Link](https://ineuron-shopify-website-clone-17.netlify.app/)
+> ### Social Media Links:
+
+- ### [Portfolio Website Link](https://www.findcoder.io/u/atulsinghatul)
+- ### [Linkedin Link](https://www.linkedin.com/in/atul-singh-082529249/)
+- ### [Youtube Link](https://www.youtube.com/channel/UCBNc9Vs9mAFxnAKjzWRqDFQ)
+- ### [Hashnode Link](https://atulsinghatul.hashnode.dev/)
 
 **Project is fully Responsive**
 
